@@ -30,11 +30,12 @@ header{
     align-items: center;
     border-radius: 10px;
     overflow: auto;
+    background: linear-gradient();
 }
 
 .news-desc{
     font-family: sans-serif;
-    font-size: 30px;
+    font-size: 25px;
     margin: 10px;
     
 }
